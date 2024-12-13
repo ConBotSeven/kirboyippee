@@ -1,0 +1,22 @@
+body{background-image:url(goodbg.jpg);
+	background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+color: white;
+font-family: Verdana, Arial, sans-serif;
+letter-spacing: -1px;}
+a {
+	text-decoration: none;
+	}
+	a:link {
+		color: yellow; /* Unvisited link */
+		}
+		a:visited {
+		color: pink; /* Visited link */
+		}
+		footer{font-size: 12px;
+			color: white;
+			font-family: Verdana, Arial, sans-serif;}
+			img{width:500px;
+				height:400px; 
+				margin:right; }
